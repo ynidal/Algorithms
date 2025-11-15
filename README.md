@@ -1,2 +1,7 @@
-# CPP-Algorithms
-Algorithms implemented with C++
+# Algorithms
+Algorithms implemented with many languages
+- C
+- C++
+- Scala
+- Go
+- Java
