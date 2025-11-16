@@ -39,3 +39,8 @@
 
 # debug information files
 *.dwo
+
+*.metals
+*.scala-build
+*.bsp
+*.vscode
